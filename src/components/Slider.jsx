@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const images = [
-  { src: '/path/to/image1.jpg', alt: 'Diwali Delights 1', caption: 'Illuminate your taste buds with our festive treats' },
-  { src: '/path/to/image2.jpg', alt: 'Diwali Delights 2', caption: 'Discover our special Diwali collection' },
-  { src: '/path/to/image3.jpg', alt: 'Diwali Delights 3', caption: 'Celebrate with our traditional sweets' },
+  { src: 'src/assets/just399.png', alt: 'Diwali Delights 1', caption: 'Illuminate your taste buds with our festive treats' },
+  { src: 'src/assets/items.gif', alt: 'Diwali Delights 2', caption: 'Discover our special Diwali collection' },
+  { src: 'src/assets/Orange and Yellow Organic Diwali Video (1).gif', alt: 'Diwali Delights 3',  },
 ];
 
 const Slider = () => {
