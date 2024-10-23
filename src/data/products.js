@@ -13,55 +13,55 @@ export const products = [
     description: 'गोड आणि मऊ मोतीचुर लाडू, परंपरागत पद्धतीने बनवलेले.',
     price: '399/kg',
     imageUrl: motichur,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   },
   {
     name: 'शंकरपाळी गोड',
     description: 'कुरकुरीत आणि गोड शंकरपाळी, चहासोबत परफेक्ट.',
     price: '399/kg',
     imageUrl: shankharpadi,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   },
   {
     name: 'चकली',
     description: 'तांदळाच्या पिठापासून बनवलेली कुरकुरीत चकली.',
     price: '399/kg',
     imageUrl: chakli,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   },
   {
     name: 'शंकरपाळी खारी',
     description: 'खारट आणि कुरकुरीत शंकरपाळी, नाश्त्यासाठी उत्तम.',
     price: '399/kg',
     imageUrl: khari,
-    phoneNumber: '917038719588'
+   phoneNumber: '919834401591'
   },
   {
     name: 'करंजी',
     description: 'गोड भरलेली कुरकुरीत करंजी, दिवाळीची खास मिठाई.',
     price: '399/kg',
     imageUrl: karanji,
-    phoneNumber: '917038719588'
+   phoneNumber: '919834401591'
   },
   {
     name: 'बालुशाही',
     description: 'मऊ आणि गोड बालुशाही, चहासोबत आनंद घ्या.',
     price: '399/kg',
     imageUrl: balushai,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   },
   {
     name: 'मिक्स चिवडा',
     description: 'विविध प्रकारचे पोहे, शेव, आणि मसाले यांचे टेस्टी मिश्रण.',
     price: '399/kg',
     imageUrl: mixchivda,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   },
   {
     name: 'बेसन लाडू',
     description: 'शुद्ध तूप आणि बेसनापासून बनवलेले पारंपारिक लाडू.',
     price: '399/kg',
     imageUrl: besanladdu,
-    phoneNumber: '917038719588'
+    phoneNumber: '919834401591'
   }
 ];
